@@ -38,3 +38,4 @@ console.log(typeof myFunction);
 
 console.log("yash")
 console.log(2>1)
+console.log("Yash Pal")
