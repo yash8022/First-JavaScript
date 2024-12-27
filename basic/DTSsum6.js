@@ -37,3 +37,4 @@ const myFunction = function(){
 console.log(typeof myFunction);
 
 console.log("yash")
+console.log(2>1)
