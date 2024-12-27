@@ -37,5 +37,10 @@ const myFunction = function(){
 console.log(typeof myFunction);
 
 console.log("yash")
+<<<<<<< HEAD
 console.log(2>1)
 console.log("Yash Pal")
+=======
+
+console.log("Singh")
+>>>>>>> feature/JavaScripT
