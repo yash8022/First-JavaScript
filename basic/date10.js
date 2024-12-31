@@ -17,7 +17,11 @@ let myTimeStamp=Date.now()
 // console.log(myCreatedDate.getTime());
 // console.log(Math.floor(Date.now()/1000));
 
-let newDate =new Date()
-console.log(newDate);
-console.log(newDate.getMonth());
-console.log(newDate.getDate());
+// let newDate =new Date()
+// console.log(newDate);
+// console.log(newDate.getMonth());
+// console.log(newDate.getDate());
+
+newDate.toLocalString('default',{
+    weekday: 'long'
+})
